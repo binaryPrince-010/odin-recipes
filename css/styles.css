@@ -3,3 +3,37 @@
     color: #000;
     background-color: #f0f0f0;
 }
+
+li {
+    color:  hsl(60, 60%, 47%);
+}
+
+a:link {
+    color: hsl(60, 60%, 47%);
+    text-decoration: none;
+}
+
+a:visited {
+    color:  hsl(175, 60%, 42%);
+}
+
+h1 {
+    color: brown;
+    font-size: 42px;
+    text-align: center;
+}
+
+ul {
+    margin: auto;
+    width: 200px;
+    padding-bottom: 30px;
+}
+
+div.banner {
+    width: 900px;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
