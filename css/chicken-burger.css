@@ -19,6 +19,7 @@ h1 {
 span.recipes {
     color: rgb(214, 35, 35);
     font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
 }
 
 div.banner {
